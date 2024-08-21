@@ -12,6 +12,5 @@
 	Damage Numbers
 	Damage Multipliers 
 	Magazine (if any)
-	Distance
 	
 5. Resources if any
